@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @18aaddy
 - 👀 I’m interested in Blockchain, Web3 Development
-- 🌱 I’m currently learning GoLang, EVM and full-stack dev
-- 💞️ I’m looking to collaborate on interesting projects in the Web3 space
+- 🌱 I’m currently learning GoLang, Rust and Blockchain Infra
+- ⭐ I’m looking to collaborate on interesting projects in the Web3 space
 - 📫 How to reach me:
 -   X : @xprvAaddy
 <!---
