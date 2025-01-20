@@ -1,5 +1,5 @@
 ## 🚀 About Me
-- 🔭 I’m currently working on [Your Current Project](link to project)
+- 🔭 I’m currently working on open source
 - 🌱 I’m currently learning Rust and Go in Web3
 - 👯 I’m looking to collaborate on interesting projects in Web3 infra or smart contracts
 - 📫 How to reach me: [xprvAaddy](https://x.com/xprvAaddy)
